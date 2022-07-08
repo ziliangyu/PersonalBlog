@@ -1,0 +1,18 @@
+{
+  "name": "personnlog",
+  "version": "1.0.0",
+  "author": "reco_luan",
+  "scripts": {
+    "dev": "vuepress dev . --open --host \"localhost\"",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "1.8.2",
+    "vuepress-theme-reco": "1.6.10"
+  },
+  "description": "",
+  "dependencies": {
+    "valine": "^1.4.18",
+    "vuepress-plugin-comment": "^0.7.3"
+  }
+}
